@@ -1,6 +1,6 @@
 ## Chaitanya Sutar.
 
-# Learning Quantum Information and Mathematics behind learning systems.
+### Learning Quantum Information and Mathematics behind learning systems.
 
 I'm a third year engineering student pursuing Artificial intelligence and Data Science.
 
