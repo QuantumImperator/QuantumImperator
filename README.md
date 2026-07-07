@@ -1,5 +1,3 @@
-#### Learning Quantum Information and Mathematics behind learning systems.
-
 ## Myself Chaitanya Sutar,
 
 I'm a third year engineering student pursuing Artificial intelligence and Data Science.
@@ -12,4 +10,5 @@ Quanntum Computing: Contributed a 4 qubit GHZ circuit to qcsim circuit library f
 
 AccuGrad- An Autodifferentiation library in Python.
 
-Learning AI Engineering consistently.
+
+#### Learning Quantum Information and Mathematics behind learning systems. 
