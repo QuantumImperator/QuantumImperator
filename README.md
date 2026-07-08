@@ -1,12 +1,10 @@
 ## Myself Chaitanya Sutar,
+### Learning Quantum Information and Mathematics behind learning systems.
 
-### What i Work On-
+## What i Work On-
 
-Quanntum Computing: Contributed a 4 qubit GHZ circuit to qcsim circuit library for quantum collective community.
+Quantum: Contributed a 4 qubit GHZ circuit to qcsim circuit library for quantum collective community.
 
-### Building From Scratch-
+## Building From Scratch-
 
-AccuGrad- An Autodifferentiation library in Python.
-
-
-#### Learning Quantum Information and Mathematics behind learning systems. 
+AccuGrad- An Autodifferentiation library in Python. 
